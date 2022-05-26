@@ -45,6 +45,17 @@
 .heart:hover{
     color: #eb0037;
 }
+.hover-img{
+  display: none;
+  position: absolute;
+  left: 0;
+}
+
+.product:hover .hover-img{
+  display: block;
+  width: 100%;
+}
+
 /* utilities */
 .bg-red {
   background-color: #eb0037;
