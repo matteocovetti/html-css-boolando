@@ -44,10 +44,10 @@
 }
 /* utilities */
 .bg-red {
-  background-color: red;
+  background-color: #eb0037;
 }
 .bg-green {
-  background-color: green;
+  background-color: #00875a;
 }
 .style-banner {
   color: white;
@@ -55,7 +55,7 @@
   font-size: 10px;
 }
 .red{
-    color: red;
+    color: #ff072a;
 }
 .black{
     color: black;
