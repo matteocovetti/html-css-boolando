@@ -27,12 +27,12 @@
 }
 .tag1 {
   position: absolute;
-  bottom: 80px;
+  bottom: 140px;
   left: 0;
 }
 .tag2{
     position: absolute;
-    bottom: 80px;
+    bottom: 140px;
     left: 35px;
 }
 .heart{
@@ -53,4 +53,17 @@
   color: white;
   padding: 5px;
   font-size: 10px;
+}
+.red{
+    color: red;
+}
+.black{
+    color: black;
+}
+.old-price{
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+.uppercase{
+    text-transform: uppercase;
 }
